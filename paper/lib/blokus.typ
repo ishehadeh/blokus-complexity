@@ -1,9 +1,11 @@
 #import "./to-str.typ": to-str;
 
+// https://coolors.co/c13e40-bb9f06-429ea6-9f87af
 #let cellColors = (
-  a: rgb(0, 0, 0),
-  b: rgb(255, 0, 0),
-  c: rgb(0, 255,0)
+  a: rgb(193, 62, 64),
+  b: rgb(66, 158, 166),
+  c: rgb(187, 159, 6),
+  d: rgb(159, 135, 175)
 );
 
 // render a Blokus board
